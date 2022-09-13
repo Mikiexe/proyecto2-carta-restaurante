@@ -1,0 +1,56 @@
+/* CUSTOM FONT WOOD-CARVED LIKE */
+
+@font-face {
+    font-family: 'woodCarved';
+    src: url(/fonts/Carved-Wood-5392563/CARVEDWOODRegular.ttf);
+}
+
+a:link {
+    text-decoration: none;
+
+}
+
+body {
+    display: flex;
+}
+
+.col {
+    display: inline-flex;
+}
+
+.my-navbar {
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto 0 auto;
+    width: 100%;
+    height: 3em;
+    /* background-color: beige; */
+    /* background-image: url(../imagenes/kisspng-hardwood-wood-flooring-tile-wood-flooring-5a926fae820d40.1960381015195462865327.png); */
+    border-bottom: .1em solid black;
+    box-shadow: 0.2em 0.8em 5em lightblue;
+}
+
+.my-navbar-banner {
+    margin: .5em auto auto 1em;
+    align-items: left;
+    width: 10em;
+    height: 2em;
+}
+
+.my-navbar-banner img {
+    max-width: 90%;
+    max-height: 90%;
+}
+
+.my-navbar-row-1 {
+    text-align: center;
+    margin: auto 3em auto 2em;
+}
+
+
+.my-navbar-row-right {
+    margin-top: .5em;
+    text-align: center;
+    width: 10em;
+    height: 2em;
+}
