@@ -8,3 +8,4 @@ In this second project, we were asked to create a simple webpage for a small/med
 - HTML
 - CSS
 - JS (JavaScript, hopefully)
+- Media queries
