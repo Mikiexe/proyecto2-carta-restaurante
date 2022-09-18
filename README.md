@@ -7,5 +7,4 @@ In this second project, we were asked to create a simple webpage for a small/med
 - Bootstrap 5.2
 - HTML
 - CSS
-- JS (JavaScript, hopefully)
 - Media queries
